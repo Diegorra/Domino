@@ -1,2 +1,2 @@
 # Domino
-Domino in C++
+Aprendiendo a programar en C++. Domino por terminal
